@@ -1,7 +1,7 @@
 const { default: axios } = require("axios")
 const rx = /<!--Docsium::START-->[\s\S]*<!--Docsium::END-->/gi;
-const url = process.env.WK_URL
-const wk_key = process.env.WAKATIME_API_KEY
+const url = process.env.INPUT_WK_URL
+const wk_key = process.env.INPUT_WAKATIME_API_KEY
 async function callWakaTime() {
 
     const encKey = Buffer.from(wk_key).toString('base64')
