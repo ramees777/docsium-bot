@@ -11,4 +11,4 @@ ADD index.js /index.js
 
 CMD [ "node","/index.js" ]
 
-COPY lib/template.svg /lib/template.svg
+COPY /lib/template.svg lib/template.svg
