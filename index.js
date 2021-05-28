@@ -11,7 +11,6 @@ async function callWakaTime() {
         }
     })).data
 
-    console.log(response);
     try {
         const lang_data = response['data']['languages']
         return createStatusBar(lang_data)
@@ -39,7 +38,9 @@ function createStatusBar(data) {
     }
     const svgFile = readFileSync(__dirname + '/lib/template.svg').toString('utf-8')
     const fileMOS = svgFile.replace(rx, emmetString.toString())
+    console.log(svgFile===fileMOS);
     writeFileSync(__dirname + '/lib/template.svg', fileMOS)
+    console.log('finished');
 }
 
 
