@@ -1,4 +1,4 @@
-FROM node:lastest
+FROM node:14.17.0
 
 ADD package.json /package.json
 RUN npm install
