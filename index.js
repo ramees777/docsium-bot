@@ -17,6 +17,7 @@ async function callWakaTime() {
 
     try {
         const lang_data = response['data']['languages']
+
         const newCollections = createStatusBar(lang_data)
         const content_ur = (await github.repos.getContent({ owner: 'docsploit', repo: 'docsium-bot', path: 'lib/template.svg' }))
         const data = Buffer.from(content_ur.data.content, 'base64').toString('utf-8')
@@ -41,8 +42,10 @@ const theme = require('./lib/provider.theme');
 function createStatusBar(data) {
     const emmetString = []
     for (let i = 0; i < data.length; i++) {
-        let new_theme = theme.Theme.change(data[i].name, color(data[i].name), data[i].percent, data[i].text, i)
-        emmetString.push(new_theme)
+        if (data[i].percent > 10) {
+            let new_theme = theme.Theme.change(data[i].name, color(data[i].name), data[i].percent, data[i].text, i)
+            emmetString.push(new_theme)
+        }
     }
     return emmetString;
 }
