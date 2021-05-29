@@ -379,7 +379,7 @@ module.exports.LColors = {
         "color": "#447265",
         "url": "https://github.com/trending?l=DM"
     },
-    "Dockerfile": {
+    "Docker": {
         "color": "#384d54",
         "url": "https://github.com/trending?l=Dockerfile"
     },
