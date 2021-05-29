@@ -42,7 +42,7 @@ const theme = require('./lib/provider.theme');
 function createStatusBar(data) {
     const emmetString = []
     for (let i = 0; i < data.length; i++) {
-        if (data[i].percent > 2) {
+        if (data[i].percent >1) {
             let new_theme = theme.Theme.change(data[i].name, color(data[i].name), data[i].percent, data[i].text, i)
             emmetString.push(new_theme)
         }
