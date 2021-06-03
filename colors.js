@@ -761,7 +761,7 @@ module.exports.LColors = {
     },
     "JSX":{
         "color":"#61dafb"
-        }
+        },
     
     "Julia": {
         "color": "#a270ba",
