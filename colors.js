@@ -759,6 +759,10 @@ module.exports.LColors = {
         "color": "#0064bd",
         "url": "https://github.com/trending?l=Jsonnet"
     },
+    "JSX":{
+        "color":"#61dafb"
+        }
+    
     "Julia": {
         "color": "#a270ba",
         "url": "https://github.com/trending?l=Julia"
