@@ -62,7 +62,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="134.92913532000003"
+    width="112.743308308"
     height="12"
     rx="6"
     id="rect4"
@@ -99,7 +99,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="92.258268716"
+    width="77.10236304"
     height="12"
     rx="6"
     id="rect4"
@@ -136,7 +136,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="90.557481296"
+    width="76.34645752"
     height="12"
     rx="6"
     id="rect4"
@@ -161,7 +161,7 @@
       id="tspan822-6"
       x="520.1073"
       y="6.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">9 hrs 6 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">9 hrs 10 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -173,12 +173,12 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="34.507086988000005"
+    width="72.45354409200002"
     height="12"
     rx="6"
     id="rect4"
     y="20.348067999999998"
-    style="fill:#f1e05a" />
+    style="fill:#00B4AB" />
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -188,7 +188,7 @@
       id="tspan822"
       x="4.410491"
       y="31.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">JavaScript</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">Dart</tspan></text>
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -198,7 +198,7 @@
       id="tspan822-6"
       x="520.1073"
       y="31.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">3 hrs 28 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">8 hrs 42 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -210,12 +210,12 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="15.685039540000002"
+    width="28.72440976"
     height="12"
     rx="6"
     id="rect4"
     y="45.348068"
-    style="fill:#00B4AB" />
+    style="fill:#f1e05a" />
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -225,7 +225,7 @@
       id="tspan822"
       x="4.410491"
       y="56.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">Dart</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">JavaScript</tspan></text>
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -235,7 +235,7 @@
       id="tspan822-6"
       x="520.1073"
       y="56.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">1 hr 34 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">3 hrs 27 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -247,7 +247,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="4.2330709120000005"
+    width="4.308661464"
     height="12"
     rx="6"
     id="rect4"
@@ -272,6 +272,6 @@
       id="tspan822-6"
       x="520.1073"
       y="81.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">25 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">31 mins</tspan></text>
 <!--Docsium::END-->
 </svg>
