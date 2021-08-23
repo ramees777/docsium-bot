@@ -51,6 +51,11 @@
    inkscape:window-y="22"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg6" />
+   <style>
+   #rect4:hover{
+         background-color:red;
+      }
+   </style>
 <!--Docsium::START-->
 <rect
     x="131"
