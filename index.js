@@ -19,11 +19,11 @@ async function callWakaTime() {
         const lang_data = response['data']['languages']
         console.log(lang_data)
         const newCollections = createStatusBar(lang_data)
-        const content_ur = (await github.repos.getContent({ owner: 'docsploit', repo: 'docsium-bot', path: 'lib/template.svg' }))
+        const content_ur = (await github.repos.getContent({ owner: 'ramees777', repo: 'docsium-bot', path: 'lib/template.svg' }))
         const data = Buffer.from(content_ur.data.content, 'base64').toString('utf-8')
         let new_readme = data.replace(rx, newCollections);
         new_readme = Buffer.from(new_readme, 'utf-8').toString('base64')
-        await github.repos.createOrUpdateFileContents({ content: new_readme, owner: 'docsploit', message: 'Updated status', path: 'lib/template.svg', repo: 'docsium-bot', sha: content_ur.data.sha })
+        await github.repos.createOrUpdateFileContents({ content: new_readme, owner: 'ramees777', message: 'Updated status', path: 'lib/template.svg', repo: 'docsium-bot', sha: content_ur.data.sha })
     }
     catch (error) {
         console.log(error);
