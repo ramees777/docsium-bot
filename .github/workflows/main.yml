@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: docsploit/docsium-bot@main
+      - uses: ramees777/docsium-bot@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WK_URL: ${{secrets.WK_URL}}
